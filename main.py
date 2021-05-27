@@ -1,4 +1,4 @@
-import os
+import os|
 import pytesseract as tess
 import tkinter as tk
 from tkinter import filedialog, StringVar, IntVar
